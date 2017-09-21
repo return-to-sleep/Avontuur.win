@@ -2,7 +2,7 @@
 	<html>
 	<head>
 		<style>
-			h1   {color: blue;}
+			h1   {color: yellow;}
 			.name {text-align: center;}
 		</style>
 	</head>
