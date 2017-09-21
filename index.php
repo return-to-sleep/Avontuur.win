@@ -9,7 +9,7 @@
 
 	<body>
 		<div class="name">
-			<h1>dev.Avontuur.win</h1>
+			<h1>dev: Avontuur.win</h1>
 		</div>
 	</body>
 </html>
